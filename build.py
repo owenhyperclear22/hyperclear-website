@@ -65,7 +65,7 @@ def header(active_file):
 
 INSTAGRAM_ICON = """<svg viewBox="0 0 24 24" width="42" height="42" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="5" fill="#A7A8AA"/><path d="M12 8.2a3.8 3.8 0 1 0 0 7.6 3.8 3.8 0 0 0 0-7.6Zm0 6.27a2.47 2.47 0 1 1 0-4.94 2.47 2.47 0 0 1 0 4.94Z" fill="#fff"/><circle cx="16.1" cy="7.9" r="0.9" fill="#fff"/><path d="M16.7 4H7.3A3.3 3.3 0 0 0 4 7.3v9.4A3.3 3.3 0 0 0 7.3 20h9.4a3.3 3.3 0 0 0 3.3-3.3V7.3A3.3 3.3 0 0 0 16.7 4Zm2 12.7a2 2 0 0 1-2 2H7.3a2 2 0 0 1-2-2V7.3a2 2 0 0 1 2-2h9.4a2 2 0 0 1 2 2v9.4Z" fill="#fff"/></svg>"""
 
-LINKEDIN_ICON = """<svg viewBox="0 0 24 24" width="42" height="42" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="5" fill="#A7A8AA"/><path d="M7.4 9.6H4.9V19h2.5V9.6ZM6.15 5c-.86 0-1.4.57-1.4 1.3 0 .72.52 1.3 1.37 1.3h.02c.88 0 1.4-.58 1.4-1.3C7.53 5.57 7.02 5 6.15 5ZM19.1 13.4c0-2.3-1.23-3.37-2.87-3.37-1.32 0-1.91.73-2.24 1.24v-1.07h-2.5c.03.7 0 9.4 0 9.4H14v-5.25c0-.28.02-.56.1-.76.23-.56.75-1.15 1.62-1.15 1.14 0 1.6.87 1.6 2.14V19h2.5l.28-5.6Z" fill="#fff"/></svg>"""
+LINKEDIN_ICON = """<svg viewBox="0 0 24 24" width="42" height="42" xmlns="http://www.w3.org/2000/svg"><rect width="24" height="24" rx="5" fill="#A7A8AA"/><svg x="5" y="5.5" width="14" height="13" viewBox="0 0 448 512"><path fill="#fff" d="M100.28 448H7.4V148.9h92.88zm-46.44-338.7C24.09 109.3 0 85.15 0 54.55a54.55 54.55 0 0 1 109.1 0c0 30.6-24.1 54.75-54.83 54.75zM447.9 448h-92.68V302.4c0-34.7-.7-79.3-48.29-79.3-48.29 0-55.7 37.7-55.7 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg></svg>"""
 
 
 def footer():
